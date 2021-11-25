@@ -113,5 +113,5 @@ positively respond to peoples behaviour. Stop to think, question
 and critique.<br>
 
 *We are forced to exist between the binary therefore, we must learn
-to thrive here.*
+to thrive here.* 
 
