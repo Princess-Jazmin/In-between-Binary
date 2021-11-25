@@ -1,6 +1,6 @@
 # In-between-Binary <br>
 
-*In-between Binary is an experimental essay written by Jazmin Morris.* <br>
+*In-between Binary is an experimental essay written by Jazmin Morris in the format of a README.* <br>
 
 HIS-torically, black and/or queer folk and other marginalised
 identities have been undocumented and erased by colonial lenses.
